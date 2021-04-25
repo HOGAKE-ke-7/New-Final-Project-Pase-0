@@ -19,7 +19,7 @@ function cart1() {
   divKeranjang.id = `${idAwal}-cart`
   
   let pic = document.createElement('img')
-  pic.src = './menu/BT-01.png'
+  pic.src = './menu/churros.webp'
   pic.classList.add('sicart')
   pic.innerHTML = 'Churos'
   // console.log(pic)
@@ -96,7 +96,7 @@ function cart2() {
   divKeranjang.id = `${idAwal2}-cart`
   
   let pic = document.createElement('img')
-  pic.src = './menu/BT-02-min.png'
+  pic.src = './menu/tiramisu.webp'
   pic.classList.add('sicart')
   pic.innerHTML = 'Tiramisu'
   // console.log(pic)
@@ -161,7 +161,7 @@ function cart3() {
   divKeranjang.id = `${idAwal3}-cart`
   
   let pic = document.createElement('img')
-  pic.src = './menu/BT-03-min.png'
+  pic.src = './menu/blueberry.webp'
   pic.classList.add('sicart')
   pic.innerHTML = 'Blueberry'
   // console.log(pic)
@@ -227,7 +227,7 @@ function cart4() {
   divKeranjang.id = `${idAwal4}-cart`
   
   let pic = document.createElement('img')
-  pic.src = '/menu/BT-04.png'
+  pic.src = './menu/pudingCenut.webp'
   pic.classList.add('sicart')
   pic.innerHTML = 'Puding Cenut'
   // console.log(pic)
@@ -294,7 +294,7 @@ function cart5() {
   divKeranjang.id = `${idAwal5}-cart`
   
   let pic = document.createElement('img')
-  pic.src = './menu/LT-01.png'
+  pic.src = './menu/cupidCap.webp'
   pic.classList.add('sicart')
   pic.innerHTML = 'Cupid Cap'
   // console.log(pic)
@@ -358,7 +358,7 @@ function cart6() {
   divKeranjang.id = `${idAwal6}-cart`
   
   let pic = document.createElement('img')
-  pic.src = './menu/LT-02-min.png'
+  pic.src = './menu/kumaKumi.webp'
   pic.classList.add('sicart')
   pic.innerHTML = 'Kuma Kumi'
   // console.log(pic)
@@ -422,7 +422,7 @@ function cart7() {
   divKeranjang.id = `${idAwal7}-cart`
   
   let pic = document.createElement('img')
-  pic.src = './menu/LT-03-min.png'
+  pic.src = './menu/minami.webp'
   pic.classList.add('sicart')
   pic.innerHTML = 'Minami'
   // console.log(pic)
@@ -488,7 +488,7 @@ function cart8() {
   divKeranjang.id = `${idAwal8}-cart`
   
   let pic = document.createElement('img')
-  pic.src = './menu/LT-04-min.png'
+  pic.src = './menu/superSeger.webp'
   pic.classList.add('sicart')
   pic.innerHTML = 'Super Seger'
   // console.log(pic)
